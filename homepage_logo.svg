@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="93.340866mm"
+   height="20.65346mm"
+   viewBox="0 0 93.340866 20.65346"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="homepage_logo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2265"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#4682b4;stop-opacity:1;"
+         offset="0"
+         id="stop2263" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="177.05979"
+     inkscape:cy="9.6597263"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.863937,-102.47279)">
+    <g
+       id="g853">
+      <rect
+         ry="5.337954e-12"
+         y="102.47279"
+         x="42.863937"
+         height="20.65346"
+         width="93.340866"
+         id="rect817"
+         style="fill:#4682b4;fill-opacity:1;stroke-width:0.30613545" />
+      <rect
+         ry="4.7666116e-12"
+         y="106.48062"
+         x="47.006611"
+         height="12.785135"
+         width="31.938707"
+         id="rect2269"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.3418797" />
+      <text
+         transform="scale(0.94244862,1.0610658)"
+         id="text2273"
+         y="110.61986"
+         x="53.452229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0910244px;line-height:1.25;font-family:'Lemon Jelly Personal Use';-inkscape-font-specification:'Lemon Jelly Personal Use, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4272778"
+         xml:space="preserve"><tspan
+           id="tspan839"
+           sodipodi:role="line"
+           x="53.452229"
+           y="110.61986">Tom's</tspan></text>
+      <text
+         transform="scale(0.98916909,1.0109495)"
+         id="text839"
+         y="117.9492"
+         x="82.151459"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.15727997px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42893201"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.15727997px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.42893201"
+           y="117.9492"
+           x="82.151459"
+           id="tspan837"
+           sodipodi:role="line">HOMEPAGE</tspan></text>
+    </g>
+  </g>
+</svg>
