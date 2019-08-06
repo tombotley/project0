@@ -7,14 +7,19 @@ Project 0 Homepage
 Objectives
 
 •	Become more comfortable with HTML and CSS to design and style webpages.
+
 •	Learn to use SCSS to write more complex stylesheets for your webpages.
 
 Minimum requirements
 
 •	At least four linked html pages.
+
 •	At least one list, one table and one image.
+
 •	At least one stylesheet with at least five CSS properties, five selectors, one #id selector, one .class selector and one @media query for smaller screens.
+
 •	At least one Bootstrap 4 component and two Bootstrap columns with Bootstrap’s grid model.
+
 •	At least one SCSS variable, one example of SCSS nesting and one use of SCSS inheritance.
 
 What I have implemented
