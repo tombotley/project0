@@ -7,14 +7,16 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	    <link rel="stylesheet" href="style.css">
     </head>
+    
     <body>
         <div id="page-container">
             <div id="page-content">
-                <nav class="nav-banner navbar navbar-expand-sm sticky-top navbar-light border border-info">
-                    <a class="navbar-brand" href="index.html"><img class="logo" src="homepage_logo.svg" alt="Tom's Logo"></a>
+                <nav class="nav-banner navbar navbar-expand-sm sticky-top navbar-light border-bottom border-info">
+                    <a class="navbar-brand" href="index.html"><img class="logo" src="logo.png" alt="Tom's Logo"></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
+                    
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item active">
@@ -22,47 +24,64 @@
                             <li class="nav-item">
                                 <a class="nav-link link-nowrap" href="about.html">About Me</a></li>
                             <li class="nav-item">
-                                <a class="nav-link link-nowrap" href="nintendo.html">My Nintendo</a></li>
+                                <a class="nav-link link-nowrap" href="nintendo.html">Nintendo</a></li>
                             <li class="nav-item">
                                 <a class="nav-link link-nowrap" href="richmondpark.html">Richmond Park</a></li>
                         </ul>
                     </div>
                 </nav>
+                
                 <div id="homeintro">
-                    <h2>Welcome to my CS50 Project 0 Homepage</h2>
-                    <p>Choose a topic to learn a little about me and my interests</p>
+                    <h1>Welcome to my Project 0 Homepage</h1>
                 </div>
+                
                 <div class="d-flex flex-wrap" id="homecards">
                     <div class="card homecard border border-info">
-                        <img class="card-img-top" src="Pictures/profile.jpg" alt="My Profile">
+                        <a href="about.html" class="topic-link">
+                            <img class="card-img-top topic-image" src="Pictures/profile.jpg" alt="My Profile">
+                            <div class="image-overlay">
+                                <div class="topic-view">View</div>
+                            </div>
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">About Me</h5>
                             <p class="card-text text-muted">A very brief history of me, the creator of this page. Prepare to be entralled.</p>
-                            <a href="about.html" class="btn btn-info homecardbtn">Visit</a>
                         </div>
                     </div>
+                    
                     <div class="card homecard border border-info">
-                        <img class="card-img-top" src="Pictures/collection.jpg" alt="My Collection">
+                        <a href="nintendo.html" class="topic-link">
+                            <img class="card-img-top topic-image" src="Pictures/collection.jpg" alt="My Collection">
+                            <div class="image-overlay">
+                                <div class="topic-view">View</div>
+                            </div>
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">My Nintendo Collection</h5>
-                            <p class="card-text text-muted">Take a look at one of my big passions, collecting (and playing) Nintendo.</p>
-                            <a href="nintendo.html" class="btn btn-info homecardbtn">Visit</a>
+                            <p class="card-text text-muted">Take a look at one of my big passions, collecting Nintendo.</p>
                         </div>
                     </div>
+                    
                     <div class="card homecard border border-info">
-                        <img class="card-img-top" src="Pictures/parkdeer.jpg" alt="My Favourite Place">
+                        <a href="richmondpark.html" class="topic-link">
+                            <img class="card-img-top topic-image" src="Pictures/parkdeer.jpg" alt="My Favourite Place">
+                            <div class="image-overlay">
+                                <div class="topic-view">View</div>
+                            </div>
+                        </a>
                         <div class="card-body">
                             <h5 class="card-title">Richmond Park, London</h5>
                             <p class="card-text text-muted">Find out about one of my favourite places, the beautiful Richmond Park.</p>
-                            <a href="richmondpark.html" class="btn btn-info homecardbtn">Visit</a>
                         </div>
                     </div>
                 </div>
             </div>
+            
             <div id="footer">
                 <p>© tombottles 2019</p>
             </div>
         </div>
+        
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
