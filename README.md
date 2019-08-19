@@ -1,20 +1,20 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+**Web Programming with Python and JavaScript**
 
-Project 0 Homepage
+**Project 0 Homepage**
 
 Screencast presentation: https://youtu.be/B5Ya17XSIlc
+<br/><br/>
 
-
-Objectives
+**Objectives**
 
 •	Become more comfortable with HTML and CSS to design and style webpages.
 
 •	Learn to use SCSS to write more complex stylesheets for your webpages.
+<br/><br/>
 
-
-Minimum requirements
+**Minimum requirements**
 
 •	At least four linked html pages.
 
@@ -25,9 +25,9 @@ Minimum requirements
 •	At least one Bootstrap 4 component and two Bootstrap columns with Bootstrap’s grid model.
 
 •	At least one SCSS variable, one example of SCSS nesting and one use of SCSS inheritance.
+<br/><br/>
 
-
-What I have implemented
+**What I have implemented**
 
 My homepage consists of four html pages. Each makes use of Bootstraps navbar component for the page header with links to each of the sites pages, my site brand logo and a collapsing menu for smaller screens.
 
